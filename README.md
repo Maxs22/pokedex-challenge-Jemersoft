@@ -4,7 +4,7 @@ creada con Next.js y sass para los estilos....
 
 ![principal](https://user-images.githubusercontent.com/80960155/138173445-e6977fe7-58c2-49f7-a276-699d28d132b5.png)
 
-en la pantalla principal es obtativo poner un nombre!
+en la pantalla principal es obtativo ingresar un nombre!
 
 ![home](https://user-images.githubusercontent.com/80960155/138173621-17435c63-a7cf-4678-a59a-7894289e928f.png)
 
